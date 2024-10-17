@@ -1,7 +1,6 @@
-// src/pages/NotFound.jsx
-import astronauta from '@/assets/astronauta.webp';
-import starsBackground from '@/assets/stars-pttnr.webp';
-import { Link } from 'react-router-dom';
+import astronauta from '@/assets/astronauta.webp'
+import starsBackground from '@/assets/stars-pttnr.webp'
+import { Link } from 'react-router-dom'
 
 export default function NotFound() {
   return (
