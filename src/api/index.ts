@@ -1,0 +1,1 @@
+export { default as typicodeApi } from './typicode-api'
